@@ -6,7 +6,7 @@ body {
 .wheel {
     border: 2px solid black;
     border-radius: 50%;
-    left: 26rem;
+    left: 30%;
     position: absolute;
     height: 55vw;
     width: 55vw;
